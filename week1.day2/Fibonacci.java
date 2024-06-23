@@ -21,7 +21,7 @@ public class Fibonacci {
 			fibStart = fibStart1;
 			fibStart1 = fibSeries;
 			
-			System.out.print("Hi");
+			System.out.print("Hello");
 		}
 
 	}
